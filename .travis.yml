@@ -1,7 +1,6 @@
 language: python
 python: 3.4
-script: 
-- python validator/tests.py 
+script: python validator/tests.py 
 cache:
   directories:
     - $HOME/.cache/pip
