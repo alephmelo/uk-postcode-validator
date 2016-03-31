@@ -37,6 +37,7 @@ OK
 ```
 
 # Demo
+![Image](../master/assets/demo.gif?raw=true)
 
 # Bonus
 ```python
