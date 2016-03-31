@@ -12,3 +12,14 @@ $ python3 setup install
 Or save you some time and just download it the package as zip file, your choice.
 
 # Usage
+
+Once you have the package installed just import inside a python interpreter.
+
+```bash
+python3
+```
+```python
+>>> from validator.main import Validator
+>>> Validator.is_valid('SW1A1AA')
+True
+```
