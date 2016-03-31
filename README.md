@@ -1,4 +1,4 @@
-# UK Postcode Validator
+# UK Postcode Validator [![Build Status](https://travis-ci.org/alephmelo/uk-postcode-validator.svg?branch=master)](https://travis-ci.org/alephmelo/uk-postcode-validator)
 A comprehensive postcode validator library using Python 3.
 
 # Installation
